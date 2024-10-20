@@ -8,3 +8,5 @@ needs Nodejs installed
 4) to run the addon simply run "npm start"
 
 You can use the Dockerfile instead
+
+On Stremio you need add /manifest.json at the end of addon link
