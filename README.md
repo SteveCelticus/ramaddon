@@ -6,3 +6,5 @@ needs Nodejs installed
 2) open a terminal inside the directory
 3) run "npm install"
 4) to run the addon simply run "npm start"
+
+You can use the Dockerfile instead
