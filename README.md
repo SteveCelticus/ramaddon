@@ -9,4 +9,4 @@ needs Nodejs installed
 
 You can use the Dockerfile instead
 
-On Stremio you need add /manifest.json at the end of addon link
+On Stremio you need to put /manifest.json at the end of addon link
