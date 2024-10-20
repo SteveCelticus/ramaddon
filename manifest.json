@@ -1,0 +1,18 @@
+{
+  "id": "stremio_ramaorientalfansub",
+  "version": "1.0.0",
+  "name": "RamaOrientalFansub Addon",
+  "description": "Addon per catalogare e fornire stream di serie coreane da RamaOrientalFansub",
+  "resources": ["catalog", "stream"],
+  "types": ["series"],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "ramaoriental-catalog"
+    }
+  ],
+  "idPrefixes": ["ramaoriental_"],
+  "logo": "https://ramaorientalfansub.tv/wp-content/uploads/2024/09/gohAuKheCdRkliOgCHHielPi5ro-320x480.jpg",
+  "background": "https://ramaorientalfansub.tv/wp-content/uploads/2024/09/gohAuKheCdRkliOgCHHielPi5ro-1024x1536.jpg"
+}
+
